@@ -1,4 +1,4 @@
-Call for Papers “Causal Methods in Software Engineering (CauSE 2025)”
+Call for Papers “Causal Methods in Software Engineering (CauSE 2026)”
 
 Aim and scope:
 
@@ -18,25 +18,25 @@ Topics include the application of causal reasoning methods, such as causal disco
 
 Manuscript submission information:
 
-Submitted papers should present original, unpublished work, relevant to one of the topics above. CauSE 2025 will accept: 
+Submitted papers should present original, unpublished work, relevant to one of the topics above. CauSE 2026 will accept: 
 * Full papers (max. 8 pages) describing original, complete, and validated research;
 * Position/Short papers (max. 4 pages) that describe forward-looking, visionary ideas and/or in-progress works with emerging results, thought-provoking reflections, or that set potential new directions for the community; 
 * Tool and artifacts papers (max. 4 pages) for researchers who want to present tools, extensions of tools or artifacts (e.g., datasets for benchmarks), relevant to the workshop. 
 
-Submissions must be in English and in PDF format. At the time of submission, all papers must conform to the FSE 2025 format and submission guidelines. 
-All submissions will be refereed by three members of the program committee. Accepted submissions will be published in FSE 2025 companion proceedings. At least one author of each accepted paper must register for, attend the workshop, and present the results.
+Submissions must be in English and in PDF format. At the time of submission, all papers must conform to the FSE 2026 format and submission guidelines. 
+All submissions will be refereed by three members of the program committee. Accepted submissions will be published in FSE 2026 companion proceedings. At least one author of each accepted paper must register for, attend the workshop, and present the results.
 
 Important Dates:
 
-* Workshop papers submission Tuesday Feb 25th, 2025
-* Workshop papers notification Tuesday Mar 25th, 2025
-* Workshop papers camera-ready (hard) Thursday Apr 24th, 2025
+* Workshop papers submission Tuesday Feb 25th, 2026
+* Workshop papers notification Tuesday Mar 25th, 2026
+* Workshop papers camera-ready (hard) Thursday Apr 24th, 2026
 * Workshop date: TBD
 
 Links:
 
-* Submissions: https://cause2025.hotcrp.com/
-* Workshop website: https://causality-software-engineering.github.io/cause-workshop-2025/
+* Submissions: https://cause2026.hotcrp.com/
+* Workshop website: https://causality-software-engineering.github.io/cause-workshop-2026/
 
 Contacts:
 
