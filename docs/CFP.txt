@@ -1,0 +1,48 @@
+Call for Papers “Causal Methods in Software Engineering (CauSE 2025)”
+
+Aim and scope:
+
+Despite their potential, causal methods have not yet been leveraged by the software engineering community. While preliminary studies demonstrated their benefit in specific areas, their broad and systematic exploitation for software engineering is still far from coming. The objective of this workshop is to provide the first platform for participants to share their research, experiences, and insights on causal inference methods and their applications in software engineering. The broader aim is to foster networking and open new collaboration opportunities, encouraging the development of a new strong community.
+
+Topics:
+
+The workshop intends to keep the scope of the application use cases as broad as possible. We don't want to restrict the type of causal methods applied and want this workshop to be an open stage for SE researchers to discuss which causal approach fits best a given use case. The types of work expected include (but are not limited to) proof of concept, benchmarks, empirical studies, lessons learned reports, literature reviews, etc. 
+
+Topics include the application of causal reasoning methods, such as causal discovery, causal inference, and the causal treatment of machine learning (Causal Machine Learning, Causal Reinforcement Learning), to: 
+* Software engineering activities along the whole life cycle, from requirements analysis to design, development, testing and formal methods, verification and validation, maintenance and evolution
+* Fault prevention, fault removal (fault localization, debugging, root cause analysis), fault tolerance, fault prediction
+* Software Quality Assurance, assessment, and improvement of software quality attributes, e.g., security, privacy, safety, maintainability, resilience, robustness, usability, transparency, explainability, accountability, and fairness among others
+* Empirical software engineering
+* Software engineering within specific technological spaces (e.g., AI systems, Internet of Things, Cloud, Semantic Web/Web 3.0, Virtualization, Blockchain, networks softwarization, 5G/6G, edge-to-cloud computing)
+* Normative/regulatory/ethical spaces about software engineering
+
+Manuscript submission information:
+
+Submitted papers should present original, unpublished work, relevant to one of the topics above. CauSE 2025 will accept: 
+* Full papers (max. 8 pages) describing original, complete, and validated research;
+* Position/Short papers (max. 4 pages) that describe forward-looking, visionary ideas and/or in-progress works with emerging results, thought-provoking reflections, or that set potential new directions for the community; 
+* Tool and artifacts papers (max. 4 pages) for researchers who want to present tools, extensions of tools or artifacts (e.g., datasets for benchmarks), relevant to the workshop. 
+
+Submissions must be in English and in PDF format. At the time of submission, all papers must conform to the FSE 2025 format and submission guidelines. 
+All submissions will be refereed by three members of the program committee. Accepted submissions will be published in FSE 2025 companion proceedings. At least one author of each accepted paper must register for, attend the workshop, and present the results.
+
+Important Dates:
+
+* Workshop papers submission Tuesday Feb 25th, 2025
+* Workshop papers notification Tuesday Mar 25th, 2025
+* Workshop papers camera-ready (hard) Thursday Apr 24th, 2025
+* Workshop date: TBD
+
+Links:
+
+* Submissions: https://cause2025.hotcrp.com/
+* Workshop website: https://causality-software-engineering.github.io/cause-workshop-2025/
+
+Contacts:
+
+* Julien Siebert (julien.siebert@iese.fraunhofer.de), Fraunhofer IESE, Germany
+* Roberto Pietrantuono (Roberto.pietrantuono@unina.it) University of Naples Federico II, Italy
+* Neil Walkinshaw (n.walkinshaw@sheffield.ac.uk) School of Computer Science, University of Sheffield, UK
+* Luca Giamattei (luca.giamattei@unina.it) University of Naples Federico II, Italy
+
+ 
