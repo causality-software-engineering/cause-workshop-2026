@@ -36,11 +36,15 @@ All submissions will be refereed by three members of the program committee. Acce
 
 ## Important Dates:
 
-To be announced
+- Workshop papers submission Feb 1st, 2026
+- Workshop papers notification Mar 7th, 2026
+- Workshop papers camera-ready Apr 21st, 2026
+- Workshop date: TBD (3-4 July 2026) 
+
 
 ## Link to the submission system:
 
-[https://cause2026.hotcrp.com/](https://cause2026.hotrcp.com)
+[https://cause2026.hotcrp.com/](https://cause2026.hotcrp.com/)
 
 # Workshop Program
 
