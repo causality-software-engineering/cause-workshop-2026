@@ -30,10 +30,11 @@ Submitted papers should present original, unpublished work, relevant to one of t
 * Full papers (max. 8 pages) describing original, complete, and validated research;
 * Position/Short papers (max. 4 pages) that describe forward-looking, visionary ideas and/or in-progress works with emerging results, thought-provoking reflections, or that set potential new directions for the community; 
 * Tool and artifacts papers (max. 4 pages) for researchers who want to present tools, extensions of tools or artifacts (e.g., datasets for benchmarks), relevant to the workshop;
-* Extended abstracts (max. 2 pages) summarizing ongoing research, preliminary results, or novel ideas that would benefit from community feedback. 
+* Extended abstracts (max. 2 pages) summarizing ongoing research, preliminary results, or novel ideas that would benefit from community feedback. Accepted abstracts will be free of APC charges. 
 
-Submissions must be in English and in PDF format. At the time of submission, all papers must conform to the FSE 2026 format and submission guidelines. **The workshop will employ a double-anonymous review process**.
-All submissions will be refereed by three members of the program committee. Accepted submissions will be published in FSE 2026 companion proceedings. 
+Submissions must be in English and in PDF format. At the time of submission, all papers must conform to the [FSE 2026 format and submission guidelines](https://conf.researchr.org/track/fse-2026/fse-2026-how-to-submit). **The workshop will employ a double-anonymous review process**.
+All submissions will be refereed by three members of the program committee. Accepted submissions will be published in FSE 2026 companion proceedings. At least one author of each accepted paper is required to register for and present at the workshop.
+As a published ACM author, you and your co-authors are subject to all [ACM Publications Policies](https://www.acm.org/publications/policies/toc), including ACM’s new [Publications Policy on Research Involving Human Participants and Subjects](https://www.acm.org/publications/policies/research-involving-human-participants-and-subjects).
 
 ## Important Dates:
 
