@@ -40,15 +40,31 @@ To be announced
 
 ## Link to the submission system:
 
-https://cause2026.hotcrp.com/
+[https://cause2026.hotcrp.com/](https://cause2026.hotrcp.com)
 
 # Workshop Program
 
 To be announced
 
-# Program Committee
+# Program Committee (WIP)
 
-To be announced
+-    Prof. Andrea Alexander Janes. Free University of Bozen/Bolzano, Bozen/Bolzano, Italy.
+-    Prof. Carlo A. Furia. Università della Svizzera italiana, Lugano, Switzerland.
+-    Dr. Carlos Paradis. KBR Inc. CA, United States.
+-    Dr. Hans-Martin Heyn. Department of Computer Science and Engineering, Chalmers and University of Gothenburg, Göteborg, Sweden.
+-    Prof. Jacopo Soldani. University of Pisa, Pisa, Italy.
+-    Julian Frattini. Blekinge Institute of Technology, Karlskrona, Sweden.
+-    Prof. Jürgen Mottok. Software Engineering Laboratory for Safe and Secure Systems (LaS³), OTH Regensburg, Regensburg, Germany.
+-    Prof. Martin Shepperd. College of Engineering, Design and Physical Sciences, Brunel University of London, London, UK.
+-    Dr. Mike Konrad. Software Engineering Institute, Carnegie Mellon University, Pittsburgh, PA, United States.
+-    Dr. Mirko Perkusich. VIRTUS/UFCG, Campina Grande, Brazil.
+-    Prof. Richard Torkar. Department of Computer Science and Engineering, Chalmers and University of Gothenburg, Göteborg, Sweden.
+-    Dr. Seongmin Lee. Max Planck Institute for Security and Privacy, Bochum, Germany.
+-    Sigma Jaha. Dalhousie University, Halifax, Canada.
+-    Prof. Stefano Russo. DIETI, Universit`a degli Studi di Napoli Federico II, Napoli, Italy.
+-    Dr. Subhajit Datta. Department of Computer Science and Engineering, Heritage Institute of Technology, Kolkata, India.
+-    Prof. Subhashis Majumder. Department of Computer Science and Engineering, Heritage Institute of Technology, Kolkata, India.
+
 
 # Organizers and contacts
 
