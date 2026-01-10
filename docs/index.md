@@ -65,7 +65,7 @@ To be announced
 -    Dr. Mike Konrad. Software Engineering Institute, Carnegie Mellon University, Pittsburgh, PA, United States.
 -    Dr. Mirko Perkusich. VIRTUS/UFCG, Campina Grande, Brazil.
 -    Prof. Richard Torkar. Department of Computer Science and Engineering, Chalmers and University of Gothenburg, Göteborg, Sweden.
--    Dr. Seongmin Lee. Max Planck Institute for Security and Privacy, Bochum, Germany.
+-    Dr. Seongmin Lee. University of California, Los Angeles (UCLA), USA.
 -    Sigma Jaha. Dalhousie University, Halifax, Canada.
 -    Prof. Stefano Russo. DIETI, Universit`a degli Studi di Napoli Federico II, Napoli, Italy.
 -    Dr. Subhajit Datta. Department of Computer Science and Engineering, Heritage Institute of Technology, Kolkata, India.
