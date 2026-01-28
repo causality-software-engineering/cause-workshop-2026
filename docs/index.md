@@ -38,9 +38,9 @@ As a published ACM author, you and your co-authors are subject to all [ACM Publi
 
 ## Important Dates:
 
-- Workshop papers submission Feb 1st, 2026
-- Workshop papers notification Mar 7th, 2026
-- Workshop papers camera-ready Apr 21st, 2026
+- Workshop papers submission ~~Feb 1st, 2026~~ (**Extended: Feb 12th, 2026, AoE**)
+- Workshop papers notification ~~Mar 7th, 2026~~ (**Extended: Mar 19th, 2026, AoE**)
+- Workshop papers camera-ready ~~Mar 21st, 2026~~ (**Extended: Apr 2nd, 2026, AoE**)
 - Workshop date: TBD (3-4 July 2026) 
 
 
